@@ -1,7 +1,7 @@
-### Hi there 👋, I'm Proshanto!
+### Hi there 👋, I'm Proshanto Kumar Roy!
 **CSE Student @ Sharda University | Tech Enthusiast**
 
-I am passionate about technology, hardware, and programming. Currently, I am experimenting with **C/C++** and **IoT** projects to solve real-world problems.
+I am passionate about technology, hardware and programming. Currently, I am experimenting with **C/C++** and **IoT** projects to solve real-world problems.
 
 - 🔭 I’m currently working on: **Smart Lighting System using PIR Sensor**
 - 🌱 I’m currently learning: **Data Structures & Algorithms (C++)**
