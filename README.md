@@ -18,4 +18,4 @@ I am passionate about technology, hardware and programming. Currently, I am expe
 </p>
 
 ### 🌐 Connect with me
-[<img src="https://img.shields.io/badge/My_Portfolio-Visit_Site-2ea44f?style=for-the-badge&logo=vercel">](https://prosh
+[![Portfolio](https://img.shields.io/badge/Visit-My%20Portfolio-blue?style=for-the-badge&logo=vercel)](https://proshantokumarroy.me)
