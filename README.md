@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Proshanto!
 **CSE Student @ Sharda University | Tech Enthusiast**
 
-আমি টেকনোলজি, হার্ডওয়্যার এবং প্রোগ্রামিং নিয়ে কাজ করতে ভালোবাসি। বর্তমানে আমি **C/C++** এবং **IoT** নিয়ে এক্সপেরিমেন্ট করছি।
+I am passionate about technology, hardware, and programming. Currently, I am experimenting with **C/C++** and **IoT** projects to solve real-world problems.
 
 - 🔭 I’m currently working on: **Smart Lighting System using PIR Sensor**
 - 🌱 I’m currently learning: **Data Structures & Algorithms (C++)**
@@ -18,6 +18,4 @@
 </p>
 
 ### 🌐 Connect with me
-[<img src="https://img.shields.io/badge/My_Portfolio-Visit_Site-2ea44f?style=for-the-badge&logo=vercel">](https://proshantokumarroy.me)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=proshanto-kumar-roy&show_icons=true&theme=radical)
+[<img src="https://img.shields.io/badge/My_Portfolio-Visit_Site-2ea44f?style=for-the-badge&logo=vercel">](https://prosh
